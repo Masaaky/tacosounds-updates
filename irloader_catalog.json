@@ -1,0 +1,2319 @@
+{
+ "format": 1,
+ "revision": 202609141053,
+ "products": [
+  {
+   "folder": "TacoSounds IR 110 FEND PRIN",
+   "genre": "1-SPEAKER",
+   "handle": "110-fend-prin",
+   "cab": "Fender™ Princeton Reverb [Black Face]",
+   "spk": "G10S-50 1 x 10″ speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "110_FEND_PRIN_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "110_FEND_PRIN_M421.mp3"
+    },
+    {
+     "mic": "1VR",
+     "path": "110_FEND_PRIN_1VR.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "110_FEND_PRIN_R121.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 112 FEND '75-DLXR",
+   "genre": "1-SPEAKER",
+   "handle": "112-fend-75-dxlr",
+   "cab": "Fender™ Deluxe Reverb — 1975 · Silverface · CBS Era",
+   "spk": "Utah™ 1×12\" — Original driver",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "112_FEND_75DLXR_57III.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "112_FEND_75DLXR_VR1.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "112_FEND_75DLXR_R121.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "112_FEND_75DLXR_414ULS.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "112_FEND_75DLXR_421W.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "112_FEND_75DLXR_BACK.mp3"
+    },
+    {
+     "mic": "57III_BACK",
+     "path": "112_FEND_75DLXR_57III_BACK_6-4.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "112_FEND_75DLXR_57III_R121_5-5.mp3"
+    },
+    {
+     "mic": "414ULS_421W",
+     "path": "112_FEND_75DLXR_414ULS_421W_5-5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 112 FEND BLUES DX",
+   "genre": "1-SPEAKER",
+   "handle": "112-fend-blues-dx",
+   "cab": "Fender™ Blues deluxe Original",
+   "spk": "1993, Eminence 1 x 12\" speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "112_FEND_BLUES_DX_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "112_FEND_BLUES_DX_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "112_FEND_BLUES_DX_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "112_FEND_BLUES_DX_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "112_FEND_BLUES_DX_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 112 FEND DLX-RV",
+   "genre": "1-SPEAKER",
+   "handle": "112-fend-dlx-rv",
+   "cab": "Fender™ Deluxe Reverb [Black Face]",
+   "spk": "Eminence™ 1 x 12″",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "112_FEND_DLX-RV_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "112_FEND_DLX-RV_M421.mp3"
+    },
+    {
+     "mic": "1VR",
+     "path": "112_FEND_DLX-RV_1VR.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "112_FEND_DLX-RV_R121.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 112 KERRY CLOSED",
+   "genre": "1-SPEAKER",
+   "handle": "112-kerry-closed",
+   "cab": "Kerry Wright™ 1 x 12″ Closed Back",
+   "spk": "Celestion™ UK G12 VINTAGE30",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "112_KERRY_CLOSED_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "112_KERRY_CLOSED_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "112_KERRY_CLOSED_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "112_KERRY_CLOSED_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "112_KERRY_CLOSED_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 115 FEND VIBRO",
+   "genre": "1-SPEAKER",
+   "handle": "115-fend-vibroverb",
+   "cab": "Fender™ Vibroverb [Black Face]",
+   "spk": "JBL™ Music Products E130-8 1 x 15″",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "115_FEND_VIBRO_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "115_FEND_VIBRO_M421.mp3"
+    },
+    {
+     "mic": "1VR",
+     "path": "115_FEND_VIBRO_1VR.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "115_FEND_VIBRO_R121.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 118 ACOST BASS M301",
+   "genre": "BASS",
+   "handle": "118-acost-bass-m301",
+   "cab": "1970s, Acoustic™ Model 301 Bass Cabinet",
+   "spk": "Cerwin Vega™ AC188L Original 18\" speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "118_ACOST_BASS_M301_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "118_ACOST_BASS_M301_M421.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "118_ACOST_BASS_M301_VR1.mp3"
+    },
+    {
+     "mic": "EV20",
+     "path": "118_ACOST_BASS_M301_EV20.mp3"
+    },
+    {
+     "mic": "U47f",
+     "path": "118_ACOST_BASS_M301_U47f.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 210 MARS Lead-3005",
+   "genre": "2-SPEAKER",
+   "handle": "210-mars-lead-3005",
+   "cab": "Marshall™ 3005 Lead 12",
+   "spk": "Celestion™ G10D-25",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "210_MARS_Lead-3005_57III_v1.mp3"
+    },
+    {
+     "mic": "M160",
+     "path": "210_MARS_Lead-3005_M160_v1.mp3"
+    },
+    {
+     "mic": "57III_M160",
+     "path": "210_MARS_Lead-3005_57III_M160_v1.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 AGLR BASS DB",
+   "genre": "BASS",
+   "handle": "212-aglr-bass",
+   "cab": "Aguilar™ DB 212",
+   "spk": "Aguilar™ JDK12A ×2",
+   "clips": [
+    {
+     "mic": "906",
+     "path": "212_AGLR_BASS_DB_906.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "212_AGLR_BASS_DB_R121.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "212_AGLR_BASS_DB_S7B.mp3"
+    },
+    {
+     "mic": "58",
+     "path": "212_AGLR_BASS_DB_58.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "212_AGLR_BASS_DB_U47fet.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "212_AGLR_BASS_DB_421W.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "212_AGLR_BASS_DB_BACK.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 BOGN V30 AP-512",
+   "genre": "2-SPEAKER",
+   "handle": "212-bogn-v30-ap-512",
+   "cab": "BOGNER™ 2 × 12 Cabinet",
+   "spk": "Celestion™ Vintage 30 × 2",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_BOGN_V30_AP_57III_preview_v3.mp3"
+    },
+    {
+     "mic": "421",
+     "path": "212_BOGN_V30_AP_421_preview_v3.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_BOGN_V30_AP_906_preview_v3.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_BOGN_V30_AP_VR1_preview_v3.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "212_BOGN_V30_AP_R121_preview_v3.mp3"
+    },
+    {
+     "mic": "57III_421",
+     "path": "212_BOGN_V30_AP_57III_421_5-5_preview_v3.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "212_BOGN_V30_AP_57III_R121_6-4_preview_v3.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "212_BOGN_V30_AP_57III_VR1_6-4_preview_v3.mp3"
+    },
+    {
+     "mic": "906_421",
+     "path": "212_BOGN_V30_AP_906_421_5-5_preview_v3.mp3"
+    },
+    {
+     "mic": "906_R121",
+     "path": "212_BOGN_V30_AP_906_R121_4-6_preview_v3.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 BOGN V30 Nev-VR",
+   "genre": "2-SPEAKER",
+   "handle": "212-bogn-v30-nev-vr",
+   "cab": "BOGNER™ 2 × 12 Cabinet",
+   "spk": "Celestion™ Vintage 30 × 2",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_BOGN_V30_Nev_57III_preview_v3.mp3"
+    },
+    {
+     "mic": "421",
+     "path": "212_BOGN_V30_Nev_421_preview_v3.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_BOGN_V30_Nev_906_preview_v3.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_BOGN_V30_Nev_VR1_preview_v3.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "212_BOGN_V30_Nev_R121_preview_v3.mp3"
+    },
+    {
+     "mic": "57III_421",
+     "path": "212_BOGN_V30_Nev_57III_421_5-5_preview_v3.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "212_BOGN_V30_Nev_57III_R121_6-4_preview_v3.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "212_BOGN_V30_Nev_57III_VR1_6-4_preview_v3.mp3"
+    },
+    {
+     "mic": "906_421",
+     "path": "212_BOGN_V30_Nev_906_421_5-5_preview_v3.mp3"
+    },
+    {
+     "mic": "906_R121",
+     "path": "212_BOGN_V30_Nev_906_R121_4-6_preview_v3.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 FEND '54-TWN",
+   "genre": "2-SPEAKER",
+   "handle": "212-fend-54-twn",
+   "cab": "1954 Fender™ Twin Amp 5D8",
+   "spk": "Jensen™ 2×12″ P12Q C5837",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_FEND_54TWN_57III.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_FEND_54TWN_VR1.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "212_FEND_54TWN_R121.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "212_FEND_54TWN_414ULS.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "212_FEND_54TWN_421W.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "212_FEND_54TWN_BACK.mp3"
+    },
+    {
+     "mic": "57III_BACK",
+     "path": "212_FEND_54TWN_57III_BACK_6-4.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "212_FEND_54TWN_57III_R121_5-5.mp3"
+    },
+    {
+     "mic": "414ULS_421W",
+     "path": "212_FEND_54TWN_414ULS_421W_5-5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 FEND B-MASTER",
+   "genre": "2-SPEAKER",
+   "handle": "212-fend-b-master",
+   "cab": "1962 Fender™ Bandmaster Cabinet — Closed-Back · 2×12\"",
+   "spk": "Eminence™ 2×12\" (1994 Reload) — Closed-Back Loading",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_FEND_B-MASTER_57III.mp3"
+    },
+    {
+     "mic": "1VR",
+     "path": "212_FEND_B-MASTER_1VR.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "212_FEND_B-MASTER_R121.mp3"
+    },
+    {
+     "mic": "M160",
+     "path": "212_FEND_B-MASTER_M160.mp3"
+    },
+    {
+     "mic": "M421W",
+     "path": "212_FEND_B-MASTER_M421W.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "212_FEND_B-MASTER_57III_R121_5-5.mp3"
+    },
+    {
+     "mic": "1VR_57III",
+     "path": "212_FEND_B-MASTER_1VR_57III_5-5.mp3"
+    },
+    {
+     "mic": "M160_M421W",
+     "path": "212_FEND_B-MASTER_M160_M421W_5-5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 FEND TWN USA",
+   "genre": "2-SPEAKER",
+   "handle": "212-fend-twn-usa",
+   "cab": "Fender™ Twin Amp USA",
+   "spk": "1993, Eminence 2 x 12\" Speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_FEND_TWN_USA_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "212_FEND_TWN_USA_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_FEND_TWN_USA_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_FEND_TWN_USA_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "212_FEND_TWN_USA_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 JAZ-CHO 50th IMAMICHI Signature IRs",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "212-jaz-cho-50th-imamichi-signature-irs",
+   "cab": "ROLAND™ JC-120 Jazz Chorus 50th Anniversary Limited Edition — 350 units worldwide · Sakura cherry veneer cabinet · Made in Japan",
+   "spk": "ROLAND™ 12″ Silver Cone × 2 — 12″ Silver Cone · 120 W stereo · Class D solid-state"
+  },
+  {
+   "folder": "TacoSounds IR 212 JENNY Blue",
+   "genre": "2-SPEAKER",
+   "handle": "212-jenny-blue",
+   "cab": "JMI™ 30/6",
+   "spk": "JMI™ 12\" England Blue",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_JENNY_Blue_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "212_JENNY_Blue_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_JENNY_Blue_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_JENNY_Blue_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "212_JENNY_Blue_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 KERRY ML Oval",
+   "genre": "2-SPEAKER",
+   "handle": "212-kerry-ml-oval",
+   "cab": "Kerry Wright™ 2 x 12″ Oval Back ML",
+   "spk": "Celestion™ G12 VINTAGE30,BOGNER Special Design Speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_KERRY_ML_Oval_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "212_KERRY_ML_Oval_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_KERRY_ML_Oval_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_KERRY_ML_Oval_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "212_KERRY_ML_Oval_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 KERRY-II AP-512",
+   "genre": "2-SPEAKER",
+   "handle": "212-kerry-ii-ap-512",
+   "cab": "Kerry Wright Oval Back 2×12\" — Diamond Grill Cloth",
+   "spk": "Celestion Vintage 30 — 1991 Made-in-UK · T3904 / 444 Cone · ×2",
+   "clips": [
+    {
+     "mic": "VR1",
+     "path": "212_KERRY-II_AP_VR1_preview.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "212_KERRY-II_AP_414ULS_preview.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "212_KERRY-II_AP_U47fet_preview.mp3"
+    },
+    {
+     "mic": "57IIIbot",
+     "path": "212_KERRY-II_AP_57IIIbot_preview.mp3"
+    },
+    {
+     "mic": "57IIItop",
+     "path": "212_KERRY-II_AP_57IIItop_preview.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "212_KERRY-II_AP_421W_preview.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "212_KERRY-II_AP_BACK_preview.mp3"
+    },
+    {
+     "mic": "57IIIbot_VR1",
+     "path": "212_KERRY-II_AP_57IIIbot_VR1_8-2_preview2.mp3"
+    },
+    {
+     "mic": "57IIItop_414ULS",
+     "path": "212_KERRY-II_AP_57IIItop_414ULS_6-4_preview.mp3"
+    },
+    {
+     "mic": "57IIItop_BACK",
+     "path": "212_KERRY-II_AP_57IIItop_BACK_8-2_preview.mp3"
+    },
+    {
+     "mic": "57IIItop_VR1",
+     "path": "212_KERRY-II_AP_57IIItop_VR1_8-2_preview2.mp3"
+    },
+    {
+     "mic": "421W_BACK",
+     "path": "212_KERRY-II_AP_421W_BACK_8-2_preview.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "212_KERRY-II_AP_421W_VR1_8-2_preview.mp3"
+    },
+    {
+     "mic": "U47fet_VR1",
+     "path": "212_KERRY-II_AP_U47fet_VR1_6-4_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 KERRY-II Nev-VR",
+   "genre": "2-SPEAKER",
+   "handle": "212-kerry-ii-nev-vr",
+   "cab": "Kerry Wright Oval Back 2×12\" — Diamond Grill Cloth",
+   "spk": "Celestion Vintage 30 — 1991 Made-in-UK · T3904 / 444 Cone · ×2",
+   "clips": [
+    {
+     "mic": "VR1",
+     "path": "212_KERRY-II_Nev_VR1_preview.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "212_KERRY-II_Nev_414ULS_preview.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "212_KERRY-II_Nev_U47fet_preview.mp3"
+    },
+    {
+     "mic": "57IIIbot",
+     "path": "212_KERRY-II_Nev_57IIIbot_preview.mp3"
+    },
+    {
+     "mic": "57IIItop",
+     "path": "212_KERRY-II_Nev_57IIItop_preview.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "212_KERRY-II_Nev_421W_preview.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "212_KERRY-II_Nev_BACK_preview.mp3"
+    },
+    {
+     "mic": "57IIIbot_VR1",
+     "path": "212_KERRY-II_Nev_57IIIbot_VR1_8-2_preview.mp3"
+    },
+    {
+     "mic": "57IIItop_414ULS",
+     "path": "212_KERRY-II_Nev_57IIItop_414ULS_6-4_preview.mp3"
+    },
+    {
+     "mic": "57IIItop_BACK",
+     "path": "212_KERRY-II_Nev_57IIItop_BACK_8-2_preview.mp3"
+    },
+    {
+     "mic": "57IIItop_VR1",
+     "path": "212_KERRY-II_Nev_57IIItop_VR1_8-2_preview.mp3"
+    },
+    {
+     "mic": "421W_BACK",
+     "path": "212_KERRY-II_Nev_421W_BACK_8-2_preview.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "212_KERRY-II_Nev_421W_VR1_8-2_preview.mp3"
+    },
+    {
+     "mic": "U47fet_VR1",
+     "path": "212_KERRY-II_Nev_U47fet_VR1_6-4_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 MESBGY RECT",
+   "genre": "2-SPEAKER",
+   "handle": "212-mesbgy-rect",
+   "cab": "MESA Boogie™ 2X12 2FB Rectifier Cabinet",
+   "spk": "JBL™ Music Products K120",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_MESBGY_RECT_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "212_MESBGY_RECT_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_MESBGY_RECT_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_MESBGY_RECT_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "212_MESBGY_RECT_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 TONEBY RED ITARU Signature IRs",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "212-toneby-red-itaru-signature",
+   "cab": "TONE TUBBY™ 2 × 12″ Ovalback Cabinet",
+   "spk": "Tone Tubby™ Alnico Red × 2"
+  },
+  {
+   "folder": "TacoSounds IR 212 VOXX AC BLUE",
+   "genre": "2-SPEAKER",
+   "handle": "212-voxx-ac-blue",
+   "cab": "VOX™ AC30/6TB-X",
+   "spk": "VOX™ Alnico Blue",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_VOXX_AC_BLUE_57III.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "212_VOXX_AC_BLUE_R121.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "212_VOXX_AC_BLUE_S7B.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "212_VOXX_AC_BLUE_U47fet.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "212_VOXX_AC_BLUE_421W.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "212_VOXX_AC_BLUE_BACK.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "212_VOXX_AC_BLUE_57III_R121_5_5.mp3"
+    },
+    {
+     "mic": "421W_R121",
+     "path": "212_VOXX_AC_BLUE_421W_R121_6_4.mp3"
+    },
+    {
+     "mic": "S7B_U47fet",
+     "path": "212_VOXX_AC_BLUE_S7B_U47fet_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 VOXX AC Green",
+   "genre": "2-SPEAKER",
+   "handle": "212-voxx-ac-green",
+   "cab": "VOX™ AC30/6TB-X",
+   "spk": "VOX™ 12\" Vintage Greenback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "212_VOXX_AC_GREEN_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "212_VOXX_AC_GREEN_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "212_VOXX_AC_GREEN_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "212_VOXX_AC_GREEN_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "212_VOXX_AC_GREEN_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 212 VOXX BLUE Fukuyama Signature IRs",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "212-voxx-blue-fukuyama-signature-irs",
+   "cab": "VOX™ AC30/60TB combo amp MOD cabinet",
+   "spk": "Alnico Blue (2x12\")"
+  },
+  {
+   "folder": "TacoSounds IR 215 ACOST BASS M402",
+   "genre": "BASS",
+   "handle": "215-acost-bass-m402",
+   "cab": "Acoustic™ Model 402 BASS Cabinet",
+   "spk": "EVL™ 2 x 15″ speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "215_ACOST_BASS_M402_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "215_ACOST_BASS_M402_M421.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "215_ACOST_BASS_M402_VR1.mp3"
+    },
+    {
+     "mic": "EV20",
+     "path": "215_ACOST_BASS_M402_EV20.mp3"
+    },
+    {
+     "mic": "U47f",
+     "path": "215_ACOST_BASS_M402_U47f.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 410 FEND '65-SR",
+   "genre": "4-SPEAKER",
+   "handle": "410-fend-65-sr",
+   "cab": "'65 Fender™ Super Reverb [Black Face]",
+   "spk": "'65 CTS™ 4×10″",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "410_FEND_65_SR_57III_v1.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "410_FEND_65_SR_VR1_v1.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "410_FEND_65_SR_414ULS_v1.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "410_FEND_65_SR_U47fet_v1.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "410_FEND_65_SR_421W_v1.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "410_FEND_65_SR_BACK_v1.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "410_FEND_65_SR_57III_VR1_5_5_v1.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "410_FEND_65_SR_421W_VR1_6_4_v1.mp3"
+    },
+    {
+     "mic": "U47_BACK",
+     "path": "410_FEND_65_SR_U47_BACK_6_4_v1.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 410 FEND BA-MAN",
+   "genre": "4-SPEAKER",
+   "handle": "410-fend-ba-man",
+   "cab": "Fender™ Tweed Bassman 5F6-A",
+   "spk": "Jensen™ 4×10″ P10Q",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "410_FEND_BA-MAN_57III.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "410_FEND_BA-MAN_VR1.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "410_FEND_BA-MAN_R121.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "410_FEND_BA-MAN_414ULS.mp3"
+    },
+    {
+     "mic": "M421W",
+     "path": "410_FEND_BA-MAN_M421W.mp3"
+    },
+    {
+     "mic": "BACK",
+     "path": "410_FEND_BA-MAN_BACK.mp3"
+    },
+    {
+     "mic": "57III_BACK",
+     "path": "410_FEND_BA-MAN_57III_BACK_6-4.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "410_FEND_BA-MAN_57III_R121_5-5.mp3"
+    },
+    {
+     "mic": "414ULS_M421W",
+     "path": "410_FEND_BA-MAN_414ULS_M421W_5-5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 BOGN V30 SHIBASAKI Signature",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "412-bogn-v30-shibasaki-signature",
+   "cab": "Bogner™ 4X12 Slant Cabinet",
+   "spk": "Celestion™ G12V30"
+  },
+  {
+   "folder": "TacoSounds IR 412 BOGN-B AP-512",
+   "genre": "4-SPEAKER",
+   "handle": "412-bogn-b-ap-512",
+   "cab": "BOGNER™ 4 × 12 Cabinet",
+   "spk": "Celestion™ Vintage 30 × 4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_BOGN-B_V30_AP_57III_preview.mp3"
+    },
+    {
+     "mic": "421",
+     "path": "412_BOGN-B_V30_AP_421_preview.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_BOGN-B_V30_AP_906_preview.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_BOGN-B_V30_AP_VR1_preview.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_BOGN-B_V30_AP_R121_preview.mp3"
+    },
+    {
+     "mic": "57III_421",
+     "path": "412_BOGN-B_V30_AP_57III_421_5-5_preview.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "412_BOGN-B_V30_AP_57III_R121_6-4_preview.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "412_BOGN-B_V30_AP_57III_VR1_6-4_preview.mp3"
+    },
+    {
+     "mic": "906_421",
+     "path": "412_BOGN-B_V30_AP_906_421_5-5_preview.mp3"
+    },
+    {
+     "mic": "906_R121",
+     "path": "412_BOGN-B_V30_AP_906_R121_4-6_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 BOGN-B Nev-VR",
+   "genre": "4-SPEAKER",
+   "handle": "412-bogn-b-nev-vr",
+   "cab": "BOGNER™ 4 × 12 Cabinet",
+   "spk": "Celestion™ Vintage 30 × 4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_BOGN-B_V30_Nev_57III_preview.mp3"
+    },
+    {
+     "mic": "421",
+     "path": "412_BOGN-B_V30_Nev_421_preview.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_BOGN-B_V30_Nev_906_preview.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_BOGN-B_V30_Nev_VR1_preview.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_BOGN-B_V30_Nev_R121_preview.mp3"
+    },
+    {
+     "mic": "57III_421",
+     "path": "412_BOGN-B_V30_Nev_57III_421_5-5_preview.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "412_BOGN-B_V30_Nev_57III_R121_6-4_preview.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "412_BOGN-B_V30_Nev_57III_VR1_6-4_preview.mp3"
+    },
+    {
+     "mic": "906_421",
+     "path": "412_BOGN-B_V30_Nev_906_421_5-5_preview.mp3"
+    },
+    {
+     "mic": "906_R121",
+     "path": "412_BOGN-B_V30_Nev_906_R121_4-6_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 HWTT BOXY BLACK",
+   "genre": "4-SPEAKER",
+   "handle": "412-hwtt-boxy-black-guitar-cabinet-ir",
+   "cab": "HIWATT™ SE4122",
+   "spk": "Celestion™ “ROLA” G12H30 Blackback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_HWTT_BOXY_BLACK_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_HWTT_BOXY_BLACK_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_HWTT_BOXY_BLACK_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_HWTT_BOXY_BLACK_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_HWTT_BOXY_BLACK_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 HWTT BOXY CONBINATION",
+   "genre": "4-SPEAKER",
+   "handle": "412-hwtt-boxy-combination",
+   "cab": "HIWATT™ SE4122 — 4×12 Straight Cabinet · British-made",
+   "spk": "Celestion G12M25 Greenback + G12H30 Blackback — X-Pattern · 2× each · 25W + 30W",
+   "clips": [
+    {
+     "mic": "Green-57III_Black-57III",
+     "path": "412_HWTT_BOXY_CONBINATION_Green-57III_Black-57III_5_5.mp3"
+    },
+    {
+     "mic": "Green-57III_Black-VR1",
+     "path": "412_HWTT_BOXY_CONBINATION_Green-57III_Black-VR1_5_5.mp3"
+    },
+    {
+     "mic": "Green-906_Black-M421",
+     "path": "412_HWTT_BOXY_CONBINATION_Green-906_Black-M421_5_5.mp3"
+    },
+    {
+     "mic": "Green-M421_Black-906",
+     "path": "412_HWTT_BOXY_CONBINATION_Green-M421_Black-906_5_5.mp3"
+    },
+    {
+     "mic": "Green-VR1_Black-57III",
+     "path": "412_HWTT_BOXY_CONBINATION_Green-VR1_Black-57III_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 HWTT BOXY GREEN",
+   "genre": "4-SPEAKER",
+   "handle": "412-hwtt-boxy-green",
+   "cab": "HIWATT™ SE4122",
+   "spk": "Celestion™ “ROLA” G12M25 Greenback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_HWTT_BOXY_GREEN_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_HWTT_BOXY_GREEN_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_HWTT_BOXY_GREEN_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_HWTT_BOXY_GREEN_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_HWTT_BOXY_GREEN_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 HWTT FANE",
+   "genre": "4-SPEAKER",
+   "handle": "412-hwtt-fane",
+   "cab": "HIWATT™ SE4123",
+   "spk": "Wharfedale 12\" · 1994 Audio Brothers Era",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_HWTT_FANE_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_HWTT_FANE_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_HWTT_FANE_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_HWTT_FANE_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_HWTT_FANE_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 HWTT FANE-EX",
+   "genre": "4-SPEAKER",
+   "handle": "412-hwtt-fane-ex",
+   "cab": "HIWATT™ SE4123",
+   "spk": "Wharfedale 12\" · 1994 Audio Brothers Era",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_HWTT_FANE_EX_57III_v2.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_HWTT_FANE_EX_R121_v2.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "412_HWTT_FANE_EX_S7B_v2.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_HWTT_FANE_EX_U47fet_v2.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_HWTT_FANE_EX_421W_v2.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "412_HWTT_FANE_EX_57III_R121_5_5_v2.mp3"
+    },
+    {
+     "mic": "421W_R121",
+     "path": "412_HWTT_FANE_EX_421W_R121_6_4_v2.mp3"
+    },
+    {
+     "mic": "S7B_U47fet",
+     "path": "412_HWTT_FANE_EX_S7B_U47fet_5_5_v2.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 LEE METALNIX",
+   "genre": "4-SPEAKER",
+   "handle": "412-lee-metalnix",
+   "cab": "1986, LEE JACKSON™ METALTRONIX",
+   "spk": "Celestion™ G12M-70",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_LEE_METALNIX_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_LEE_METALNIX_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_LEE_METALNIX_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_LEE_METALNIX_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_LEE_METALNIX_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960A L-Grill Original",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960a-l-grill-original",
+   "cab": "Marshall™ 1960A 4×12\" — Early 1970s · Large Check Grill",
+   "spk": "Celestion \"ROLA\" G12M25 Blackback — 1970s Made-in-UK · 25W · ×4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960A_L-Grill_Original_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960A_L-Grill_Original_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960A_L-Grill_Original_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960A_L-Grill_Original_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960A_L-Grill_Original_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960A LEAD800",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960a-lead800",
+   "cab": "Marshall™ 1960A LEAD 4×12\"",
+   "spk": "Celestion \"ROLA\" G12-65",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960A_LEAD800_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960A_LEAD800_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960A_LEAD800_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960A_LEAD800_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960A_LEAD800_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960A vint900",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960a-vint900",
+   "cab": "Marshall™ 1960A Vintage 4×12\"",
+   "spk": "Celestion G12 Vintage",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960A_vint900_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960A_vint900_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960A_vint900_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960A_vint900_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960A_vint900_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960AX Green SHIBASAKI Signature",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "412-mars-1960ax-green-shibasaki-signature",
+   "cab": "Marshall™ 4X12 Slant Cabinet",
+   "spk": "Celestion™ G12M25 Greenback"
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B L-Grill WT",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-l-grill-wt",
+   "cab": "Marshall™ 1960B 4×12\" — 1974 · White Tolex · Large Check Grill",
+   "spk": "Celestion \"ROLA\" G12M25 Greenback — 1970s Made-in-UK · 25W · ×4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960B_L-Grill_WT_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960B_L-Grill_WT_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960B_L-Grill_WT_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960B_L-Grill_WT_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960B_L-Grill_WT_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B S-Grill BLACK",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-s-grill-black",
+   "cab": "Marshall™ 1960B 4×12\"",
+   "spk": "Celestion \"ROLA\" G12M25 Blackback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960B_S-Grill_BLACK_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960B_S-Grill_BLACK_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960B_S-Grill_BLACK_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960B_S-Grill_BLACK_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960B_S-Grill_BLACK_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B S-Grill CONBINATION",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-s-grill-combination",
+   "cab": "Marshall™ 1960B 4×12 — Small Check Grill · Straight · Late 1970s+",
+   "spk": "Celestion “ROLA” G12M25 Green + Black — X-Pattern · 2× each · 25W",
+   "clips": [
+    {
+     "mic": "Green-57III_Black-57III",
+     "path": "412_MARS_1960B_S-Grill_CONBINATION_Green-57III_Black-57III_5_5.mp3"
+    },
+    {
+     "mic": "Green-57III_Black-VR1",
+     "path": "412_MARS_1960B_S-Grill_CONBINATION_Green-57III_Black-VR1_5_5.mp3"
+    },
+    {
+     "mic": "Green-906_Black-M421",
+     "path": "412_MARS_1960B_S-Grill_CONBINATION_Green-906_Black-M421_5_5.mp3"
+    },
+    {
+     "mic": "Green-M421_Black-906",
+     "path": "412_MARS_1960B_S-Grill_CONBINATION_Green-M421_Black-906_5_5.mp3"
+    },
+    {
+     "mic": "Green-VR1_Black-57III",
+     "path": "412_MARS_1960B_S-Grill_CONBINATION_Green-VR1_Black-57III_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B S-Grill GREEN",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-s-grill-green",
+   "cab": "Marshall™ 1960B 4×12\"",
+   "spk": "Celestion \"ROLA\" G12M25 Greenback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960B_S-Grill_GREEN_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960B_S-Grill_GREEN_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960B_S-Grill_GREEN_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960B_S-Grill_GREEN_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960B_S-Grill_GREEN_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B SaltPepper BLACK",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-saltpepper-black",
+   "cab": "Marshall™ 1960B 4×12\" — Salt and Pepper Grill · Pre-1968",
+   "spk": "Celestion \"ROLA\" G12M25 Blackback — 1970s Made-in-UK · 25W · ×4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960B_SaltPepper_BLACK_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960B_SaltPepper_BLACK_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960B_SaltPepper_BLACK_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960B_SaltPepper_BLACK_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960B_SaltPepper_BLACK_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B SaltPepper CONBINATION",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-saltpepper-combination",
+   "cab": "Marshall™ 1960B 4×12 — Salt and Pepper Grill · Straight",
+   "spk": "Celestion “ROLA” G12H30 + G12M25 Black — X-Pattern · 30W + 25W · 2× each",
+   "clips": [
+    {
+     "mic": "Black-57III_H30-57III",
+     "path": "412_MARS_1960B_SaltPepper_CONBINATION_Black-57III_H30-57III_5_5.mp3"
+    },
+    {
+     "mic": "Black-57III_H30-VR1",
+     "path": "412_MARS_1960B_SaltPepper_CONBINATION_Black-57III_H30-VR1_5_5.mp3"
+    },
+    {
+     "mic": "Black-906_H30-M421",
+     "path": "412_MARS_1960B_SaltPepper_CONBINATION_Black-906_H30-M421_5_5.mp3"
+    },
+    {
+     "mic": "Black-M421_H30-906",
+     "path": "412_MARS_1960B_SaltPepper_CONBINATION_Black-M421_H30-906_5_5.mp3"
+    },
+    {
+     "mic": "Black-VR1_H30-57III",
+     "path": "412_MARS_1960B_SaltPepper_CONBINATION_Black-VR1_H30-57III_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1960B SaltPepper G12H30",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-saltpepper-g12h30",
+   "cab": "Marshall™ 1960B 4×12\" — Salt and Pepper Grill · Pre-1968",
+   "spk": "Celestion G12H30 — Heavy-magnet · 30W · ×4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1960B_SaltPepper_G12H30_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1960B_SaltPepper_G12H30_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1960B_SaltPepper_G12H30_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1960B_SaltPepper_G12H30_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1960B_SaltPepper_G12H30_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1982A HENDLX CONBINATION",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1982a-hendlx-combination",
+   "cab": "Marshall™ 1982A 4×12",
+   "spk": "Celestion G12T-75 + Vintage 30",
+   "clips": [
+    {
+     "mic": "V30-57III_T75-57III",
+     "path": "412_MARS_1982A_HENDLX_CONBINATION_V30-57III_T75-57III_5_5.mp3"
+    },
+    {
+     "mic": "V30-57III_T75-VR1",
+     "path": "412_MARS_1982A_HENDLX_CONBINATION_V30-57III_T75-VR1_5_5.mp3"
+    },
+    {
+     "mic": "V30-906_T75-M421",
+     "path": "412_MARS_1982A_HENDLX_CONBINATION_V30-906_T75-M421_5_5.mp3"
+    },
+    {
+     "mic": "V30-M421_T75-906",
+     "path": "412_MARS_1982A_HENDLX_CONBINATION_V30-M421_T75-906_5_5.mp3"
+    },
+    {
+     "mic": "V30_VR1_T75-57III",
+     "path": "412_MARS_1982A_HENDLX_CONBINATION_V30_VR1_T75-57III_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1982A HENDLX T75",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1982a-hendlx-t75",
+   "cab": "Marshall™ 1982A Hendrix LE 4×12\"",
+   "spk": "Celestion G12T-75",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1982A_HENDLX_T75_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1982A_HENDLX_T75_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1982A_HENDLX_T75_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1982A_HENDLX_T75_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1982A_HENDLX_T75_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS 1982A HENDLX V30",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1982a-hendlx-v30",
+   "cab": "Marshall™ 1982A Hendrix LE 4×12\"",
+   "spk": "Celestion Vintage 30 (V30)",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_1982A_HENDLX_V30_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_1982A_HENDLX_V30_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_1982A_HENDLX_V30_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_1982A_HENDLX_V30_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_1982A_HENDLX_V30_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS MF4A",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-mf4a",
+   "cab": "Marshall™ MF400A 4×12\"",
+   "spk": "Celestion G12-K100",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_MF4A_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MARS_MF4A_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MARS_MF4A_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_MF4A_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MARS_MF4A_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS ’67-Pre-R",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-67-pre-r",
+   "cab": "1967 Marshall™ 1960A Pinstripe",
+   "spk": "Celestion™ G12M20 Greenback Pre-Rola",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_67_pre_r_57III.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MARS_67_pre_r_VR1.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "412_MARS_67_pre_r_414ULS.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_MARS_67_pre_r_U47fet.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_MARS_67_pre_r_421W.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "412_MARS_67_pre_r_57III_VR1_6-4.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "412_MARS_67_pre_r_421W_VR1_5-5.mp3"
+    },
+    {
+     "mic": "414ULS_421W",
+     "path": "412_MARS_67_pre_r_414ULS_421W_5-5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS-B SaltPepper Pre-ROLA",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars-1960b-saltpepper-pre-rola",
+   "cab": "Marshall™ 1960B Salt and Pepper 4×12\"",
+   "spk": "Celestion™ \"Pre-Rola\" G12M20 Greenback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_57III.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_R121.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_S7B.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_U47fet.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_421W.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_57III_R121_5_5.mp3"
+    },
+    {
+     "mic": "421W_R121",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_421W_R121_6_4.mp3"
+    },
+    {
+     "mic": "S7B_U47fet",
+     "path": "412_MARS_B_SaltPepper_Pre_ROLA_S7B_U47fet_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS800 ALTC417c",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars800-altc417c",
+   "cab": "Marshall™ JCM800 LEAD SERIES 1960A",
+   "spk": "ALTEC™ LANSING 417-8C"
+  },
+  {
+   "folder": "TacoSounds IR 412 MARS800 EV12-ZW",
+   "genre": "4-SPEAKER",
+   "handle": "412-mars800-ev12-zw",
+   "cab": "Marshall™ JCM800 LEAD SERIES 1960A",
+   "spk": "Electro-Voice™ EVM12L BlackLabel Zakk Wylde signature"
+  },
+  {
+   "folder": "TacoSounds IR 412 MESBGY ARMER",
+   "genre": "4-SPEAKER",
+   "handle": "412-mesbgy-armer",
+   "cab": "Mesa Boogie™ 4X12 4FB \"Armor\" Cabinet",
+   "spk": "Celestion™ Vintage 30",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_MESBGY_ARMER_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_MESBGY_ARMER_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_MESBGY_ARMER_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_MESBGY_ARMER_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_MESBGY_ARMER_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MESRCT AP-512",
+   "genre": "4-SPEAKER",
+   "handle": "412-mesrct-ap-512",
+   "cab": "Mesa Boogie™ Rectifier Armor · Sealed 4×12\"",
+   "spk": "Celestion™ G12 Vintage 30",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "MESRCT_AP-512_57III.mp3"
+    },
+    {
+     "mic": "M160",
+     "path": "MESRCT_AP-512_M160.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "MESRCT_AP-512_S7B.mp3"
+    },
+    {
+     "mic": "off",
+     "path": "MESRCT_AP-512_off.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "MESRCT_AP-512_421W.mp3"
+    },
+    {
+     "mic": "57III_M160",
+     "path": "MESRCT_AP-512_57III_M160.mp3"
+    },
+    {
+     "mic": "421W_M160",
+     "path": "MESRCT_AP-512_421W_M160.mp3"
+    },
+    {
+     "mic": "S7B_off",
+     "path": "MESRCT_AP-512_S7B_off.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 MESRCT Nev-VR",
+   "genre": "4-SPEAKER",
+   "handle": "412-mesrct-nev-vr",
+   "cab": "Mesa Boogie™ Rectifier Armor · Sealed 4×12\"",
+   "spk": "Celestion™ G12 Vintage 30",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "MESRCT_Nev-VR_57III.mp3"
+    },
+    {
+     "mic": "M160",
+     "path": "MESRCT_Nev-VR_M160.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "MESRCT_Nev-VR_S7B.mp3"
+    },
+    {
+     "mic": "off",
+     "path": "MESRCT_Nev-VR_off.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "MESRCT_Nev-VR_421W.mp3"
+    },
+    {
+     "mic": "57III_M160",
+     "path": "MESRCT_Nev-VR_57III_M160.mp3"
+    },
+    {
+     "mic": "421W_M160",
+     "path": "MESRCT_Nev-VR_421W_M160.mp3"
+    },
+    {
+     "mic": "S7B_off",
+     "path": "MESRCT_Nev-VR_S7B_off.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 ORNG V30 PABLO Signature",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "412-orng-v30-pablo-signature",
+   "cab": "Orange™ PPC421",
+   "spk": "Celestion™ Vintage 30",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_ORNG_V30_57III.mp3"
+    },
+    {
+     "mic": "1VR",
+     "path": "412_ORNG_V30_1VR.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_ORNG_V30_R121.mp3"
+    },
+    {
+     "mic": "M160",
+     "path": "412_ORNG_V30_M160.mp3"
+    },
+    {
+     "mic": "M421W",
+     "path": "412_ORNG_V30_M421W.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 ORNG'74 AP-512",
+   "genre": "4-SPEAKER",
+   "handle": "412-orng74-ap-512",
+   "cab": "1974 ORANGE™ 4×12",
+   "spk": "Celestion™ G12H Greenback 30W",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "ORNG_74_AP-512_57III.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "ORNG_74_AP-512_VR1.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "ORNG_74_AP-512_414ULS.mp3"
+    },
+    {
+     "mic": "off",
+     "path": "ORNG_74_AP-512_off.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "ORNG_74_AP-512_421W.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "ORNG_74_AP-512_57III_VR1.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "ORNG_74_AP-512_421W_VR1.mp3"
+    },
+    {
+     "mic": "414ULS_off",
+     "path": "ORNG_74_AP-512_414ULS_off.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 ORNG'74 Nev-VR",
+   "genre": "4-SPEAKER",
+   "handle": "412-orng74-nev-vr",
+   "cab": "1974 ORANGE™ 4×12",
+   "spk": "Celestion™ G12H Greenback 30W",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "ORNG_74_Nev-VR_57III.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "ORNG_74_Nev-VR_VR1.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "ORNG_74_Nev-VR_414ULS.mp3"
+    },
+    {
+     "mic": "off",
+     "path": "ORNG_74_Nev-VR_off.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "ORNG_74_Nev-VR_421W.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "ORNG_74_Nev-VR_57III_VR1.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "ORNG_74_Nev-VR_421W_VR1.mp3"
+    },
+    {
+     "mic": "414ULS_off",
+     "path": "ORNG_74_Nev-VR_414ULS_off.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 ORNG-LTD V30 PABLO Signature",
+   "genre": "ARTIST SIGNATURE",
+   "handle": "412-orng-ltd-v30-pablo-signature",
+   "cab": "Orange™ PPC421 Limited Edition",
+   "spk": "Celestion™ Vintage 30",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_ORNG-LTD_V30_57III.mp3"
+    },
+    {
+     "mic": "1VR",
+     "path": "412_ORNG-LTD_V30_1VR.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_ORNG-LTD_V30_R121.mp3"
+    },
+    {
+     "mic": "M160",
+     "path": "412_ORNG-LTD_V30_M160.mp3"
+    },
+    {
+     "mic": "M421W",
+     "path": "412_ORNG-LTD_V30_M421W.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 PARS BLACK",
+   "genre": "4-SPEAKER",
+   "handle": "412-pars-black",
+   "cab": "1969 Park™ 4 x 12″ cabinet",
+   "spk": "Celestion™ G12H30 Blackback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_PARS_BLACK_57III.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_PARS_BLACK_R121.mp3"
+    },
+    {
+     "mic": "S7B",
+     "path": "412_PARS_BLACK_S7B.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_PARS_BLACK_U47fet.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_PARS_BLACK_421W.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "412_PARS_BLACK_57III_R121_5_5.mp3"
+    },
+    {
+     "mic": "421W_R121",
+     "path": "412_PARS_BLACK_421W_R121_6_4.mp3"
+    },
+    {
+     "mic": "S7B_U47fet",
+     "path": "412_PARS_BLACK_S7B_U47fet_5_5.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 PARS Pre-R",
+   "genre": "4-SPEAKER",
+   "handle": "412-pars-pre-r",
+   "cab": "1969 Park™ 4 x 12″ cabinet",
+   "spk": "Celestion™ “Pre-Rola” G12M25 Greenback",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_PARS_Pre-R_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_PARS_Pre-R_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_PARS_Pre-R_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_PARS_Pre-R_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_PARS_Pre-R_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 SIMWAT'70 AP-512",
+   "genre": "4-SPEAKER",
+   "handle": "412-simwat70-ap-512",
+   "cab": "1970 Simms-Watts™ 4 × 12 Cabinet",
+   "spk": "SIMMS™ Model 122233 × 4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_SIMWAT_70_AP_57III_preview.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_SIMWAT_70_AP_VR1_preview.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "412_SIMWAT_70_AP_414ULS_preview.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_SIMWAT_70_AP_U47fet_preview.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_SIMWAT_70_AP_421W_preview.mp3"
+    },
+    {
+     "mic": "57III_421W",
+     "path": "412_SIMWAT_70_AP_57III_421W_5-5_preview.mp3"
+    },
+    {
+     "mic": "57III_U47fet",
+     "path": "412_SIMWAT_70_AP_57III_U47fet_4-6_preview.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "412_SIMWAT_70_AP_57III_VR1_6-4_preview.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "412_SIMWAT_70_AP_421W_VR1_6-4_preview.mp3"
+    },
+    {
+     "mic": "414ULS_U47fet",
+     "path": "412_SIMWAT_70_AP_414ULS_U47fet_8-2_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 SIMWAT'70 Nev-VR",
+   "genre": "4-SPEAKER",
+   "handle": "412-simwat70-nev-vr",
+   "cab": "1970 Simms-Watts™ 4 × 12 Cabinet",
+   "spk": "SIMMS™ Model 122233 × 4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_SIMWAT_70_Nev_57III_preview.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_SIMWAT_70_Nev_VR1_preview.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "412_SIMWAT_70_Nev_414ULS_preview.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_SIMWAT_70_Nev_U47fet_preview.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_SIMWAT_70_Nev_421W_preview.mp3"
+    },
+    {
+     "mic": "57III_421W",
+     "path": "412_SIMWAT_70_Nev_57III_421W_5-5_preview.mp3"
+    },
+    {
+     "mic": "57III_U47fet",
+     "path": "412_SIMWAT_70_Nev_57III_U47fet_4-6_preview.mp3"
+    },
+    {
+     "mic": "57III_VR1",
+     "path": "412_SIMWAT_70_Nev_57III_VR1_6-4_preview.mp3"
+    },
+    {
+     "mic": "421W_VR1",
+     "path": "412_SIMWAT_70_Nev_421W_VR1_6-4_preview.mp3"
+    },
+    {
+     "mic": "414ULS_U47fet",
+     "path": "412_SIMWAT_70_Nev_414ULS_U47fet_8-2_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 SLDN S-Lead",
+   "genre": "4-SPEAKER",
+   "handle": "412-sldn-s-lead",
+   "cab": "Soldano™ 412 Super Lead overdrive 100W",
+   "spk": "Celestion™ G12M-70",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_SLDN_S-Lead_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "412_SLDN_S-Lead_M421.mp3"
+    },
+    {
+     "mic": "906",
+     "path": "412_SLDN_S-Lead_906.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "412_SLDN_S-Lead_VR1.mp3"
+    },
+    {
+     "mic": "OFF",
+     "path": "412_SLDN_S-Lead_OFF.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 VOXX AP-512",
+   "genre": "4-SPEAKER",
+   "handle": "412-voxx-ap-512",
+   "cab": "VOX™ 4 × 12 Cabinet",
+   "spk": "VOX™ Custom GSH-1230-16 × 4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_VOXX_AP-512_57III_preview.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_VOXX_AP-512_R121_preview.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "412_VOXX_AP-512_414ULS_preview.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_VOXX_AP-512_U47fet_preview.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_VOXX_AP-512_421W_preview.mp3"
+    },
+    {
+     "mic": "421W_57III",
+     "path": "412_VOXX_AP-512_421W_412_VOXX_AP-512_57III_5-5_preview.mp3"
+    },
+    {
+     "mic": "57III_U47fet",
+     "path": "412_VOXX_AP-512_57III_412_VOXX_AP-512_U47fet_4-6_preview.mp3"
+    },
+    {
+     "mic": "421W_R121",
+     "path": "412_VOXX_AP-512_421W_412_VOXX_AP-512_R121_6-4_preview.mp3"
+    },
+    {
+     "mic": "414ULS_U47fet",
+     "path": "412_VOXX_AP-512_414ULS_412_VOXX_AP-512_U47fet_8-2_preview.mp3"
+    },
+    {
+     "mic": "57III_R121",
+     "path": "412_VOXX_AP-512_57III_412_VOXX_AP-512_R121_6-4_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 412 VOXX Nev-VR",
+   "genre": "4-SPEAKER",
+   "handle": "412-voxx-nev-vr",
+   "cab": "VOX™ 4 × 12 Cabinet",
+   "spk": "VOX™ Custom GSH-1230-16 × 4",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "412_VOXX_Nev-VR_57III_preview.mp3"
+    },
+    {
+     "mic": "R121",
+     "path": "412_VOXX_Nev-VR_R121_preview.mp3"
+    },
+    {
+     "mic": "414ULS",
+     "path": "412_VOXX_Nev-VR_414ULS_preview.mp3"
+    },
+    {
+     "mic": "U47fet",
+     "path": "412_VOXX_Nev-VR_U47fet_preview.mp3"
+    },
+    {
+     "mic": "421W",
+     "path": "412_VOXX_Nev-VR_421W_preview.mp3"
+    },
+    {
+     "mic": "57III_412_VOXX_Nev-VR_R121",
+     "path": "412_VOXX_Nev-VR_57III_412_VOXX_Nev-VR_R121_6-4_preview.mp3"
+    },
+    {
+     "mic": "57III_412_VOXX_Nev-VR_U47fet",
+     "path": "412_VOXX_Nev-VR_57III_412_VOXX_Nev-VR_U47fet_4-6_preview.mp3"
+    },
+    {
+     "mic": "421W_412_VOXX_Nev-VR_57III",
+     "path": "412_VOXX_Nev-VR_421W_412_VOXX_Nev-VR_57III_5-5_preview.mp3"
+    },
+    {
+     "mic": "421W_412_VOXX_Nev-VR_R121",
+     "path": "412_VOXX_Nev-VR_421W_412_VOXX_Nev-VR_R121_6-4_preview.mp3"
+    },
+    {
+     "mic": "414ULS_412_VOXX_Nev-VR_U47fet",
+     "path": "412_VOXX_Nev-VR_414ULS_412_VOXX_Nev-VR_U47fet_8-2_preview.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 415 ACOST BASS M408",
+   "genre": "BASS",
+   "handle": "415-acost-bass-m408",
+   "cab": "1970s, Acoustic™ Model 408 Bass Cabinet",
+   "spk": "4 x 15″ Speaker Original speaker",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "415_ACOST_BASS_M408_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "415_ACOST_BASS_M408_M421.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "415_ACOST_BASS_M408_VR1.mp3"
+    },
+    {
+     "mic": "EV20",
+     "path": "415_ACOST_BASS_M408_EV20.mp3"
+    },
+    {
+     "mic": "U47f",
+     "path": "415_ACOST_BASS_M408_U47f.mp3"
+    }
+   ]
+  },
+  {
+   "folder": "TacoSounds IR 810 APEG BASS Classic",
+   "genre": "BASS",
+   "handle": "810-apeg-bass-classic",
+   "cab": "Ampeg SVT810E CLASSIC Series BASS Cabinet",
+   "spk": "Eminence™ 8 x 10″",
+   "clips": [
+    {
+     "mic": "57III",
+     "path": "810_APEG_BASS_Classic_57III.mp3"
+    },
+    {
+     "mic": "M421",
+     "path": "810_APEG_BASS_Classic_M421.mp3"
+    },
+    {
+     "mic": "VR1",
+     "path": "810_APEG_BASS_Classic_VR1.mp3"
+    },
+    {
+     "mic": "EV20",
+     "path": "810_APEG_BASS_Classic_EV20.mp3"
+    },
+    {
+     "mic": "U47f",
+     "path": "810_APEG_BASS_Classic_U47f.mp3"
+    }
+   ]
+  }
+ ]
+}
