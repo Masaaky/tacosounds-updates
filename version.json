@@ -1,5 +1,18 @@
 {
   "product": "TacoSounds IR Loader",
-  "version": "0.9.9.1",
-  "url": "https://tacosounds.com/products/tacosounds-ir-loader-h4utkwxvty02zr"
+  "version": "0.9.9.3",
+  "url": "https://tacosounds.com/products/tacosounds-ir-loader-h4utkwxvty02zr",
+  "update": {
+    "mac": {
+      "url": "https://tacosounds-account.tacosounds.workers.dev/irloader/dl/1r5j2demlaflmwb8s34j/mac",
+      "sha256": "390047fe456ca691dc2662d1e230b9d5e7d2b9b1a1dc63ca8f35e99c1a2ceaab",
+      "size": 334657597
+    },
+    "win": {
+      "url": "https://tacosounds-account.tacosounds.workers.dev/irloader/dl/1r5j2demlaflmwb8s34j/win",
+      "sha256": "9ea634db4da092bd0cef2a71d73cca800c5db746e6d2ffbf1279a716a97c5f76",
+      "size": 81092181
+    },
+    "sig": "117f144610d938e6ca4f1e272c4797eb77cad0d5401f321ce2b36b8760ddd33eee9fcfd2862995bde00c158556d4ffdabb7ff8b7541d3cccf90718708c2b59495e751e83c7915c51261888579b85bdd3cdab115728c545d3a2ded857d353d36453881f5cde40a39d64d030e55e4d5a469f6cedac33305eae878e22230673e25178ccc128b9a272c6c67348a289c5325038f933aeb3aa22bf348bca21d80d9f37d922b70af96a40cb287cb9ba72e13a86845ec58345c69acce422ec57ed83a3fd1cba3d8454f29780e402c3c9ef1b17c67cf7a7e63154cdda881c5f67d357da9549d0be0cf2b53fb92ebc5c3d90b1b61a96b74186a4aa75f06d7d552a2f7a61ccba4492bae97978d5273a3d3aefa7bf22c73899015e8aa30523e55b1c0d88deff74d6d82494554ddd11f7327dd902e9a41666dff48f17acd58c56565813de454c8af0b42e757be0254da41e8bd9317690b5da40f7d9fcc4c93acdde866b2dd2fe87b187671220c9e8330e5a68656b2f827a19afd90bc8735bffe05649c4cf88dc"
+  }
 }
